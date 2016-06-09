@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/alan/¿ìÅÌ/CBT/src/webroot'
+let g:netrw_dirhist_2='/Users/alan/.vim'
+let g:netrw_dirhist_3='/Users/alan/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_4='/Volumes/lijialong01'
+let g:netrw_dirhist_5='/Users/alan/edpx-wise/cli'
+let g:netrw_dirhist_6='/Users/alan/edpx-wise/cli/wise'
+let g:netrw_dirhist_7='/Users/alan/wiseAladdin/page/gcw'
+let g:netrw_dirhist_8='/Users/alan/å¿«ç›˜/research/css'
+let g:netrw_dirhist_9='/Users/alan/desire/music/bower_components/iscroll/build'
