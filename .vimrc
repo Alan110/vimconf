@@ -23,8 +23,8 @@ Plug 'mileszs/ack.vim'
 Plug 'tpope/vim-fugitive'
 
 "代码片段
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
+"Plug 'SirVer/ultisnips'
+"Plug 'honza/vim-snippets'
 
 "代码注释
 Plug 'scrooloose/nerdcommenter'
